@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{8BF0E0EE-E47F-4A0F-A312-BBBDA138FBBB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Minutes.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Minutes/MainPage.xaml.cs" Line="85" Column="66" />
+      <File FileName="Minutes/MainPage.xaml" Line="27" Column="37" />
+      <File FileName="Minutes/Data/NoteEntry.cs" Line="1" Column="1" />
+      <File FileName="Minutes/EmptyInterface.cs" />
+      <File FileName="Minutes/INoteEntryStore.cs" Line="1" Column="1" />
+      <File FileName="Minutes/Data/MemoryEntryStore.cs" Line="1" Column="1" />
+      <File FileName="Minutes/Data/MockDataExtensionMethods.cs" Line="34" Column="36" />
+      <File FileName="Minutes/App.xaml.cs" Line="17" Column="38" />
+      <File FileName="Minutes/AssemblyInfo.cs" Line="4" Column="1" />
+      <File FileName="Minutes.Android/Properties/AndroidManifest.xml" />
+      <File FileName="Minutes/NoteEntryEditPage.xaml" Line="34" Column="71" />
+      <File FileName="Minutes/NoteEntryEditPage.xaml.cs" Line="44" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Minutes" expanded="True">
+            <Node name="Minutes" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="NoteEntryEditPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Minutes.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Minutes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2CA13E41-BF0D-49D4-88B7-CA21086C80A2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

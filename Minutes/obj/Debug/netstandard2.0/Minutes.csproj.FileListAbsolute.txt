@@ -1,0 +1,25 @@
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/bin/Debug/netstandard2.0/Minutes.deps.json
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/bin/Debug/netstandard2.0/Minutes.dll
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/bin/Debug/netstandard2.0/Minutes.pdb
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/Minutes.csprojAssemblyReference.cache
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/Minutes.csproj.CoreCompileInputs.cache
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/Minutes.AssemblyInfoInputs.cache
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/Minutes.AssemblyInfo.cs
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/Minutes.dll
+/Users/dmt1/Desktop/Xamarin/Minutes/Minutes/obj/Debug/netstandard2.0/Minutes.pdb
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/bin/Debug/netstandard2.0/Minutes.deps.json
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/bin/Debug/netstandard2.0/Minutes.dll
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/bin/Debug/netstandard2.0/Minutes.pdb
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/Minutes.csprojAssemblyReference.cache
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/NoteEntryEditPage.xaml.g.cs
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/Minutes.csproj.CoreCompileInputs.cache
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/Minutes.AssemblyInfoInputs.cache
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/Minutes.AssemblyInfo.cs
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/Minutes.dll
+/Users/dmt1/Desktop/Xamarin/Minutes copy/Minutes/obj/Debug/netstandard2.0/Minutes.pdb
